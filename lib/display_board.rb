@@ -2,6 +2,6 @@
 # out the current state.
 def display_board(array)
   puts " #{array[0]} | #{array[0]} | #{array[0]} "
-  puts ""
+  puts "-----------"
   
 end
